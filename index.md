@@ -1,10 +1,13 @@
 ## Hi,I am Wang Zhenjiang(jeremy)
 
-You can use the [editor on GitHub](https://github.com/wang-zhen-jiang/wang-zhen-jiang/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Three-year backend programmer; profound experience in internet project agile development and project management; Project team leader
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I had worked in the R & D department of Xiaoyusan insurance technology network Co., Ltd. (Tencent Alliance, venture capital investment by Sequoia capital and Jingwei) as a back-end development engineer, responsible for the front-end and back-end development of the Xiaoyusan insurance platform and the renewal insurance R & D project manager.
 
-### Markdown
+### Follow me on
+
+[Image](https://www.linkedin.com/?trk=public_profile_nav-header-logo) [My Linkedin](https://www.linkedin.com/in/wangzhenjiang-jeremy/?locale=en_US)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
