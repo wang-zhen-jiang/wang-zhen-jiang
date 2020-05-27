@@ -6,7 +6,7 @@ I had worked in the R & D department of Xiaoyusan insurance technology network C
 
 ### Follow me on
 
-![Image](https://www.linkedin.com/?trk=public_profile_nav-header-logo) [My Linkedin](https://www.linkedin.com/in/wangzhenjiang-jeremy/?locale=en_US)
+![Image](https://www.iconfinder.com/icons/5209164/download/png/512) [My Linkedin](https://www.linkedin.com/in/wangzhenjiang-jeremy/?locale=en_US)
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
